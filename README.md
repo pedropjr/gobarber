@@ -19,7 +19,7 @@ This is a barbershop mobile application. In this app you can schedule appointmen
 
 ### Preview React Native Mobile App
 
-![](gobarber_mobile.gif)
+![](gobarber-mobile.gif)
 
 
 ### Preview ReactJS
